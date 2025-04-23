@@ -4,11 +4,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Hello World</h1>
-        <h2>
-          Coded by Ricquel Harper and
+        <h1>
+          Hello World <br /> Coded by Ricquel Harper and
           <a href="https://github.com/Ricquel215/weather-react">open-sourced</a>
-        </h2>
+        </h1>
         <a
           className="App-link"
           href="https://reactjs.org"
