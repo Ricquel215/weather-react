@@ -14,6 +14,10 @@ function App() {
           Learn React
         </a>
       </header>
+      <footer>
+        Coded by Ricquel Harper and
+        <a href="https://github.com/Ricquel215/weather-react"> open-sourced</a>
+      </footer>
     </div>
   );
 }
